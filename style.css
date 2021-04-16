@@ -1,0 +1,57 @@
+.red {
+    color: red;
+    font-weight: bold;
+}
+
+body {
+    font-size: 24px;
+}
+table,td, tr, th {
+    border: 1px solid black;
+    padding: 2px;
+}
+caption {
+    color:green;
+}
+
+th {
+    color: indigo;
+    font-weight: 900;
+}
+
+.img1 {
+width: 500px;
+height: 364px;
+
+}
+
+img {
+    border: 2px solid darkmagenta;
+}
+.img2 {
+    width: 250px;
+    height: 182px;  
+}
+
+
+.img3 {
+    width: 125px;
+    height: 91px;
+    
+}
+
+a {
+    color: green;
+}
+
+input {
+  font-size: 24px;
+  border: 2px solid goldenrod;
+  color: brown;
+}
+
+.univer {
+  font-size: 26px;
+  border-bottom: 1px solid firebrick;
+  color: firebrick;
+}
